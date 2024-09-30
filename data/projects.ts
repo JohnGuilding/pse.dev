@@ -33,7 +33,6 @@ import { tlsn } from "./projects/tlsn"
 import { trustedSetups } from "./projects/trusted-setups"
 import { unirepProtocol } from "./projects/unirep-protocol"
 import { voicedeck } from "./projects/voice-deck"
-import { wax } from "./projects/wax"
 import { zk3 } from "./projects/zk3"
 import { zkemail } from "./projects/zk-email"
 import { ZKKit } from "./projects/zk-kit"
@@ -58,7 +57,6 @@ export const projects: ProjectInterface[] = [
   rln,
   zkitter,
   maci,
-  wax,
   discreetly,
   cryptkeeper,
   semaphore,
